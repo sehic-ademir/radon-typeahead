@@ -1478,6 +1478,7 @@
   {
     "brand": "Volkswagen",
     "models": [
+			"Arteon",
       "Beetle",
       "Cabrio",
       "Cabriolet",
@@ -1500,6 +1501,7 @@
       "R32",
       "Routan",
       "Scirocco",
+			"T-Roc",
       "Tiguan",
       "Touareg",
       "Vanagon"
